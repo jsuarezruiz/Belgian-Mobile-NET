@@ -1,3 +1,3 @@
-# Belgian-Mobile-NET
+# Belgian Mobile .NET Developers Group
 
-Belgian Mobile .NET Developers Group Sessions material.
+Belgian Mobile .NET Developers Group Sessions **material**.
